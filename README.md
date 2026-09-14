@@ -9,6 +9,7 @@ mobile networking: <strong>token refresh</strong>.</p>
 <img src="https://img.shields.io/badge/Ktor-3.2-087CFA?style=flat-square"/>
 <img src="https://img.shields.io/badge/JVM-17-437291?style=flat-square"/>
 <img src="https://img.shields.io/badge/license-Apache_2.0-8b949e?style=flat-square"/>
+<a href="https://github.com/chinmay-tayade/argent-http-core/actions/workflows/ci.yml"><img src="https://github.com/chinmay-tayade/argent-http-core/actions/workflows/ci.yml/badge.svg"/></a>
 
 </div>
 
